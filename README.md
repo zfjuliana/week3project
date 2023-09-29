@@ -8,6 +8,7 @@ We are thinking of developing a social application that allows users to create p
 The type of users of the application is restricted to UofT students, which will involve a layer of user authentication. 
 
 ## API Documentation Link
+https://platform.openai.com/docs/api-reference
 
 ## Trying API 
 
