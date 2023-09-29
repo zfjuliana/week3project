@@ -5,7 +5,7 @@ The problem domain of focus is a University Friend Making System that mainly rev
 ## Application Description
 We are thinking of developing a social application that allows users to create profiles, sync their spotify accounts, and get matched with other users who share similar music tastes. The application will also incorporate additional features, such as chatting, following, and playing mini music trivia games with other users.
 
-The type of users of the application is restricted to UofT students, which will involve a layer of user authentication. 
+The type of users of the application is restricted to UofT students, which will involve a layer of user authentication. Moreover, we are going to take user input about their programs of study and the colleges they are in to further find commonalities to find the best matches. 
 
 ## API Documentation Link
 https://platform.openai.com/docs/api-reference
