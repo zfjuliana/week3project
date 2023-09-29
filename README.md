@@ -15,6 +15,6 @@ https://platform.openai.com/docs/api-reference
 ## Example Output of Java Code
 
 ## Technical Problems
-We are not able to run the ChatGPT API successfully because we have to pay in order to obtain the token. 
+We were not able to run the ChatGPT API successfully because we had to pay in order to obtain the token. 
 
 
