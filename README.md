@@ -7,7 +7,7 @@ We are thinking of developing an application that suggests new friendships based
 
 The type of users of the application is restricted to UofT students, which will involve a layer of user authentication. Moreover, we plan on taking input from the users, like their programs of study and the colleges they are in, to find more commonalities and create the best matches. 
 
-We can use the Instagram API and Spotify API to retrieve information about a users' profile and media. 
+We can use the Instagram API and Spotify API to retrieve information about a users' profile and media. Another approach could be to use an NLP API to analyze social media biographies and captions in order to look for similarities between users.
 
 
 
