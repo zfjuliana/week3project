@@ -20,6 +20,7 @@ https://developers.facebook.com/docs/instagram-basic-display-api/
 ![Screenshot 2023-09-30 at 1 01 38 AM](https://github.com/zfjuliana/week3project/assets/144293710/4387d0e4-d6f2-42af-aff2-dedcc8f7f55a)
 
 ## Technical Problems
-We were not able to run the ChatGPT API successfully because we had to pay in order to obtain the token. 
+- We could not figure out how to import the external library okhttp3 successfully even after creating a new Marven project. 
+- We were trying to access the Spotify API as well, but the token generation process was not successful. 
 
 
