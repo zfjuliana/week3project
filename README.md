@@ -13,8 +13,11 @@ We can use the Instagram API and Spotify API to retrieve information about a use
 https://developers.facebook.com/docs/instagram-basic-display-api/
 
 ## Trying API 
+![Screenshot 2023-09-29 at 11 35 25 PM](https://github.com/zfjuliana/week3project/assets/144293710/487a9bc0-7797-4871-b979-0cb4beba6da3)
+![Screenshot 2023-09-29 at 11 31 11 PM](https://github.com/zfjuliana/week3project/assets/144293710/b6215aab-4909-4923-a0cd-04afb1e1fcf3)
 
 ## Example Output of Java Code
+![Screenshot 2023-09-30 at 1 01 38 AM](https://github.com/zfjuliana/week3project/assets/144293710/4387d0e4-d6f2-42af-aff2-dedcc8f7f55a)
 
 ## Technical Problems
 We were not able to run the ChatGPT API successfully because we had to pay in order to obtain the token. 
