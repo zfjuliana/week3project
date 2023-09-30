@@ -9,10 +9,8 @@ The type of users of the application is restricted to UofT students, which will 
 
 We can use the Instagram API and Spotify API to retrieve information about a users' profile and media. Another approach could be to use an NLP API to analyze social media biographies and captions in order to look for similarities between users.
 
-
-
 ## API Documentation Link
-https://platform.openai.com/docs/api-reference
+https://developers.facebook.com/docs/instagram-basic-display-api/
 
 ## Trying API 
 
